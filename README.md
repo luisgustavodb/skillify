@@ -1,3 +1,7 @@
+# site
+
+https://skillify-lac.vercel.app/
+
 # Skilify
 
 Uma landing page moderna para uma plataforma de aprendizado online.
