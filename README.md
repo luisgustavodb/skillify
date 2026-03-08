@@ -32,20 +32,6 @@ Nenhuma biblioteca ou framework foi utilizado, pois o foco foi praticar os funda
 
 ---
 
-
-## Estrutura do projeto
-
-skilify
-│
-├── index.html
-├── style.css
-└── assets
-├── images
-└── icons
-
-
----
-
 ## Objetivo do projeto
 
 O projeto foi criado com o objetivo de:
